@@ -29,4 +29,4 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ---
 🛡️ License
 ---
-This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](https://github.com/gaytrij/Data_warehouse_sql/tree/main#MIT-1-ov-file). You are free to use, modify, and share this project with proper attribution.
